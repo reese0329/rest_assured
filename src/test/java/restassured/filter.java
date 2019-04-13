@@ -1,11 +1,13 @@
 package restassured;
 
 import io.restassured.RestAssured;
+import io.restassured.builder.ResponseBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import java.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
@@ -23,7 +25,14 @@ public class filter {
         RestAssured.filters((req, res, ctx)->{
             req.cookie("testerhome","severniruby");
             return ctx.next(req,res);});
-        RestAssured.proxy("10.231.21.240",8888);
+        //公司代理
+//        RestAssured.proxy("10.231.21.240",8888);
+        //home代理
+
+        RestAssured.proxy("192.168.100.169",8888);
+
+        RestAssured.filters();  //添加aip
+        RestAssured.reset();  //清除filter
     }
 
     @Test
@@ -68,5 +77,27 @@ public class filter {
                 .statusCode(200)
                 .body("html.head.title", equalTo("mp3_百度搜索"))
                 .time(lessThan(2L), TimeUnit.SECONDS);}
+    @Test
+    public void testFilterReponse(){
+
+    }
+    @Test
+    public void testBase64(){
+        RestAssured.reset(); //fileter等
+        given().auth().basic("hogwarts","123456").log().all()
+                .filter((req,res,ctx)->{
+                    req.getQueryParams()
+                    Response response0ri=ctx.next(req,res);
+                    ResponseBuilder responseBuilder=new ResponseBuilder().clone(response0ri);
+//                    System.out.println(response0ri.getBody().asString());
+                    responseBuilder.setBody(Base64.getDecoder().decode(response0ri.getBody().asString().trim().replace("\n","")));
+                    responseBuilder.setContentType(ContentType.JSON);
+                    return responseBuilder.build();})
+                .when()
+                .get("http://localhost:8000/demo.json").then()
+                .log().all()
+                .statusCode(200)
+                .body("topics.id[0]",equalTo(18717));
+    }
 
 }
