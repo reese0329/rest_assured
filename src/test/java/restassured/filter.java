@@ -2,6 +2,8 @@ package restassured;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.ResponseBuilder;
+import io.restassured.config.SessionConfig;
+import io.restassured.filter.session.SessionFilter;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.BeforeClass;
@@ -86,7 +88,7 @@ public class filter {
         RestAssured.reset(); //fileter等
         given().auth().basic("hogwarts","123456").log().all()
                 .filter((req,res,ctx)->{
-                    req.getQueryParams()
+                    req.getQueryParams();
                     Response response0ri=ctx.next(req,res);
                     ResponseBuilder responseBuilder=new ResponseBuilder().clone(response0ri);
 //                    System.out.println(response0ri.getBody().asString());
@@ -94,10 +96,34 @@ public class filter {
                     responseBuilder.setContentType(ContentType.JSON);
                     return responseBuilder.build();})
                 .when()
-                .get("http://localhost:8000/demo.json").then()
+//home
+//                .get("http://localhost:8000/demo.json").then()
+//                mi
+                .get("http://localhost:8329/demo1.json").then()
                 .log().all()
                 .statusCode(200)
                 .body("topics.id[0]",equalTo(18717));
+    }
+
+    @Test
+    public void testJenkinsLogin(){
+        //保存一个有效的session值，登录凭证
+        RestAssured.config = RestAssured.config().sessionConfig(
+                new SessionConfig().sessionIdName("JSESSIONID.ae379626"));
+        SessionFilter sessionFilter = new SessionFilter();
+        given().log().all()
+                .filter(sessionFilter)
+                .queryParam("j_username","reese")
+                .queryParam("j_password","123456")
+                .queryParam("Submit","Sign in")
+                .when()
+                .post("http://localhost:8080/j_acegi_security_check")
+                .then()
+                .statusCode(302);
+        given().log().all()
+                .filter(sessionFilter)
+                .when().get("http://localhost:8080/login").prettyPeek()
+                .then().statusCode(200);
     }
 
 }
