@@ -11,19 +11,32 @@ public class order {
     public static void  tearDownClass(){
         System.out.println("AfterClass tearDownClass");
     }
-    @Test
-    public void printTest(){
-        System.out.println("Test");
+
+    private void println(String string){
+        System.out.println(string);
     }
+
+
 
     @Before
     public void setUp(){
-        System.out.println("Before setUp");
+        this.println("Before setUp");
     }
 
     @After
     public void tearDown(){
-        System.out.println("After tearDown");
+        this.println("After tearDown");
+    }
+
+    @Test
+    public void test1(){
+        this.println("Test1");
+    }
+
+
+    @Test
+    public void test2(){
+        this.println("Test2");
     }
 
 }
