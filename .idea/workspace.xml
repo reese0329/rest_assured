@@ -5,26 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad78a258-1c3d-435c-9e77-eaa3b0bedd0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junit/order_children2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_children_asce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_suite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_suite_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag_demo_product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag_demo_product_exclude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag_demo_stage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag_product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/order_tag_stage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/restassured/order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/restassured/order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_assured" beforeDir="false" afterPath="$PROJECT_DIR$/rest_assured" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/distribution-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/integration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/issue-tracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/mail-lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/source-repository.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/surefire-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/team-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-restassured.DoubanTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-restassured.order_tag_demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/restassured.DoubanTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/restassured.order_tag_demo.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,12 +56,13 @@
     <session id="-378496037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="4" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -86,28 +88,29 @@
           <entry key="0-SNAPSHOT" value="1" />
           <entry key="class" value="6" />
           <entry key="csv" value="2" />
-          <entry key="html" value="10" />
+          <entry key="html" value="11" />
           <entry key="iml" value="1" />
-          <entry key="java" value="57" />
+          <entry key="java" value="58" />
           <entry key="txt" value="3" />
-          <entry key="xml" value="8" />
+          <entry key="xml" value="10" />
           <entry key="yaml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="11" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="58" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="8" />
+          <entry key="XML" value="10" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+          <entry key="git.branch.checkout.local" value="1" />
           <entry key="git.branch.create.new" value="1" />
           <entry key="git.branch.rebase" value="1" />
         </counts>
@@ -120,24 +123,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/restassured/order_tag1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+            <state relative-caret-position="207">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/site/surefire-report.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/restassured/order_tag1.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/restassured/data_driven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="209">
+              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,11 +156,38 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/target/site/surefire-report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#a#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5367#5371#0" expanded="true" />
+                <element signature="e#5372#5376#0" expanded="true" />
+                <element signature="e#5391#5395#0" expanded="true" />
+                <element signature="e#5396#5400#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5578#5582#0" expanded="true" />
+                <element signature="e#5583#5587#0" expanded="true" />
+                <element signature="e#5602#5606#0" expanded="true" />
+                <element signature="e#5607#5611#0" expanded="true" />
+                <element signature="e#9382#9386#0" expanded="true" />
+                <element signature="e#9387#9391#0" expanded="true" />
+                <element signature="e#9406#9410#0" expanded="true" />
+                <element signature="e#9411#9415#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/site/source-repository.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -172,7 +200,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/junit/order_children2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="550">
               <caret line="37" column="9" selection-end-line="48" />
             </state>
           </provider>
@@ -195,6 +223,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -253,6 +282,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/test/demo/order_children2.java" />
         <option value="$PROJECT_DIR$/src/test/java/junit/order_children2.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -717,6 +747,15 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restassured" type="462c0819:PsiDirectoryNode" />
+              <item name="order_tag1" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -724,18 +763,6 @@
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -755,7 +782,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555400074586" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555552001943" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -781,6 +808,212 @@
       <recent name="D:\Tool\demo\src\test\java\com\test\demo" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/pom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/filter.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/.idea/encodings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/[Help</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/rest_assured</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/main/resources/data/input.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/main/resources/data/input.yaml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/junit/order_children2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/DataClass.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/DataDriverByExcel.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/DataDriverByYaml.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/data_driven.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_children.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_children_asce.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_inheritance.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_suite.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_suite_demo.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag_demo.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag_demo_product.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag_demo_product_exclude.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag_demo_stage.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag_product.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/src/test/java/restassured/order_tag_stage.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/classes/data/input.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/classes/data/input.yaml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/css/maven-base.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/css/maven-theme.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/css/print.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/css/site.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/dependencies.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/dependency-info.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/distribution-management.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/close.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/collapsed.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/expanded.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/external.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/icon_error_sml.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/icon_info_sml.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/icon_success_sml.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/icon_warning_sml.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/logos/build-by-maven-black.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/logos/build-by-maven-white.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/logos/maven-feather.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/images/newwindow.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/integration.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/issue-tracking.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/license.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/mail-lists.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/plugin-management.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/plugins.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/project-info.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/project-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/source-repository.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/surefire-report.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/site/team-list.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/surefire-reports/TEST-restassured.DoubanTest.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/surefire-reports/TEST-restassured.order_tag_demo.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/surefire-reports/restassured.DoubanTest.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/surefire-reports/restassured.order_tag_demo.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/junit/order_children2.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/DataClass.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/DataDriverByExcel.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/DataDriverByYaml$1.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/DataDriverByYaml.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/DoubanTest.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Html_demo.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Json_Testerhome.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Json_Testerhome_hw.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Json_Testerhome_timeout.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Json_request.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Json_token.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Variable.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/Xml_demo.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/data_driven.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/filter.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_children.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_children_asce.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_inheritance.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_suite.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_suite_demo.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag1.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag2.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag_demo.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag_demo_product.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag_demo_product_exclude.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag_demo_stage.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag_product.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/rest_assured/target/test-classes/restassured/order_tag_stage.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -793,7 +1026,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DoubanTest.testGetHtml">
+  <component name="RunManager" selected="JUnit.data_driven">
     <configuration name="DoubanTest.testGetHtml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
@@ -824,6 +1057,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="data_driven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassured" />
+      <option name="MAIN_CLASS_NAME" value="restassured.data_driven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="order" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
@@ -834,20 +1081,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="restassured" />
       <option name="MAIN_CLASS_NAME" value="restassured.order" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="order_tag_demo_product_exclude" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="restassured.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="restassured" />
-      <option name="MAIN_CLASS_NAME" value="restassured.order_tag_demo_product_exclude" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -893,18 +1126,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.order_tag_demo_stage" />
-      <item itemvalue="JUnit.order_tag_demo_product_exclude" />
       <item itemvalue="JUnit.Xml_demo" />
       <item itemvalue="JUnit.order" />
       <item itemvalue="JUnit.DoubanTest.testGetHtml" />
+      <item itemvalue="JUnit.data_driven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.data_driven" />
         <item itemvalue="JUnit.DoubanTest.testGetHtml" />
         <item itemvalue="JUnit.order_tag_demo_stage" />
         <item itemvalue="JUnit.order" />
         <item itemvalue="JUnit.Xml_demo" />
-        <item itemvalue="JUnit.order_tag_demo_product_exclude" />
       </list>
     </recent_temporary>
   </component>
@@ -925,6 +1158,7 @@
       <workItem from="1554892948590" duration="1252000" />
       <workItem from="1554986419608" duration="27518000" />
       <workItem from="1555294792430" duration="30807000" />
+      <workItem from="1555402174287" duration="4262000" />
     </task>
     <task id="LOCAL-00001" summary="test2">
       <created>1554809753521</created>
@@ -958,9 +1192,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="order_tag_demo - 2019.04.16 at 10h 46m 53s.xml">
-      <configuration name="order_tag_demo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="order_tag_demo_product - 2019.04.16 at 10h 56m 22s.xml">
       <configuration name="order_tag_demo_product" configurationId="JUnit" />
     </history-entry>
@@ -988,9 +1219,12 @@
     <history-entry file="DoubanTest_testGetHtml - 2019.04.16 at 11h 50m 54s.xml">
       <configuration name="DoubanTest.testGetHtml" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="data_driven - 2019.04.16 at 16h 04m 48s.xml">
+      <configuration name="data_driven" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83691000" />
+    <option name="totallyTimeSpent" value="88746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1004,7 +1238,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.22921109" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.17270789" />
       <window_info id="Structure" order="1" sideWeight="0.5019608" side_tool="true" weight="0.2306867" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1018,11 +1252,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.32857144" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="10" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4078091" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.38122606" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1089,7 +1323,8 @@
     <MESSAGE value="test0411" />
     <MESSAGE value="test0412" />
     <MESSAGE value="test0415" />
-    <option name="LAST_COMMIT_MESSAGE" value="test0415" />
+    <MESSAGE value="Merge branch 'master' of github.com:reese0329/rest_assured&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:reese0329/rest_assured&#10;&#10;# Conflicts:&#10;#&#9;.idea/vcs.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1126,41 +1361,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/Json_token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/requests/ClassRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/DataClassByExcel_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/DataClassByExcel_test.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.2/junit-4.2.jar!/org/junit/runners/Parameterized.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1500">
-          <folding>
-            <element signature="e#0#4743#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1500" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/restassured/filter.java">
@@ -1208,12 +1412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="19" column="25" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#635#646#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1568#1569#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1221,11 +1419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1601#1602#0" expanded="true" />
-            <element signature="e#1685#1686#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1233,9 +1426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,20 +1433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="23" column="38" selection-end-line="40" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1264,9 +1440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="25" column="27" lean-forward="true" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1274,20 +1447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="35" column="5" lean-forward="true" selection-end-line="44" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1295,9 +1454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1371,19 +1527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/data_driven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1394,95 +1537,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_demo_product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_stage.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_demo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_demo_product_exclude.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_suite_demo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_inheritance.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_children_asce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_demo_product.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_product.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_stage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_tag_demo_product_exclude.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_suite_demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_inheritance.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order_children_asce.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/demo/order.java" />
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-restassured.DoubanTest.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/junit/order_children2.java">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/restassured.order_tag_demo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/junit.order_children2.txt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="37" column="9" selection-end-line="48" />
+        <state relative-caret-position="3650">
+          <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/project-summary.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/team-list.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/site/source-repository.html">
+    <entry file="file://$PROJECT_DIR$/src/test/java/junit/order_children2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="550">
+          <caret line="37" column="9" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/data_driven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-junit.order_children2.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/restassured.order_tag_demo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/site/project-summary.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/order_tag1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/integration.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/junit.order_children2.txt">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-restassured.order_tag_demo.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/target/site/source-repository.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+        <state relative-caret-position="375">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/surefire-report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/order_tag1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="400">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#a#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5367#5371#0" expanded="true" />
+            <element signature="e#5372#5376#0" expanded="true" />
+            <element signature="e#5391#5395#0" expanded="true" />
+            <element signature="e#5396#5400#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5578#5582#0" expanded="true" />
+            <element signature="e#5583#5587#0" expanded="true" />
+            <element signature="e#5602#5606#0" expanded="true" />
+            <element signature="e#5607#5611#0" expanded="true" />
+            <element signature="e#9382#9386#0" expanded="true" />
+            <element signature="e#9387#9391#0" expanded="true" />
+            <element signature="e#9406#9410#0" expanded="true" />
+            <element signature="e#9411#9415#0" expanded="true" />
           </folding>
         </state>
       </provider>
